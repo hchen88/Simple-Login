@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="username">User Name</string>
+    <string name="password">Enter a password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="title_activity_signup2">Signup2Activity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+
+</resources>
